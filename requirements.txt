@@ -1,0 +1,10 @@
+numpy
+pandas
+tensorflow
+torch
+torchvision
+torchaudio
+matplotlib
+opencv-python
+pillow
+scipy
